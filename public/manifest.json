@@ -1,0 +1,18 @@
+{
+  "name": "電子受付簿",
+  "short_name": "受付簿",
+  "description": "電子受付簿アプリケーション",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1a4971",
+  "icons": [
+    {
+      "src": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Ccard3dev-Dynamic-Yosemite-Icon-Composer.512-WoxnoUKrgZ3KjzojDc7Wym5cZshDxa.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
+
